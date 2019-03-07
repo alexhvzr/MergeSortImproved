@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/MergeSortImproved/main.cpp
+iostream
+-
+vector
+-
+stdlib.h
+-
+sys/time.h
+-
+mergeImproved.cpp
+/Users/alex/CLionProjects/MergeSortImproved/mergeImproved.cpp
+
+/Users/alex/CLionProjects/MergeSortImproved/mergeImproved.cpp
+vector
+-
+math.h
+-
+
